@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Spaghetti Bolognese",
+    "description": "Klassische Pasta mit würziger Fleischsoße",
+    "price": 4.50,
+    "available": true,
+    "allergen": "Gluten,Milch,Eier",
+    "calories": 650,
+    "image": "https://videos.openai.com/vg-assets/assets%2Ftask_01jy16y4trev8bxxjq8qv049z1%2F1750240099_img_3.webp?st=2025-06-18T07%3A57%3A51Z&se=2025-06-24T08%3A57%3A51Z&sks=b&skt=2025-06-18T07%3A57%3A51Z&ske=2025-06-24T08%3A57%3A51Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=UxlcqwoYJJiqBmrUnMGx7vSFWBsKcfVwZ0E%2B9FI%2BsIo%3D&az=oaivgprodscus"
+  },
+  {
+    "id": 2,
+    "name": "Gemüse-Curry",
+    "description": "Herzhaftes Curry mit exotischem Aroma",
+    "price": 4.00,
+    "available": true,
+    "allergen": "Gluten",
+    "calories": 420,
+    "image": "https://videos.openai.com/vg-assets/assets%2Ftask_01jy173bw1f84a075q12n0qgar%2F1750240276_img_1.webp?st=2025-06-18T07%3A57%3A22Z&se=2025-06-24T08%3A57%3A22Z&sks=b&skt=2025-06-18T07%3A57%3A22Z&ske=2025-06-24T08%3A57%3A22Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=FlfPQaDQZwEL%2Bx9zXaI4WZNQn6JSPxp6n2lirNsK8Ng%3D&az=oaivgprodscus"
+  },
+  {
+    "id": 3,
+    "name": "Käsespätzle",
+    "description": "Deftige Spätzle mit geschmolzenem Käse",
+    "price": 3.80,
+    "available": true,
+    "allergen": "Gluten,Milch,Eier",
+    "calories": 580,
+    "image": "https://videos.openai.com/vg-assets/assets%2Ftask_01jy16rsqbfxwrpbbrxsnq3nes%2F1750239930_img_0.webp?st=2025-06-18T07%3A57%3A26Z&se=2025-06-24T08%3A57%3A26Z&sks=b&skt=2025-06-18T07%3A57%3A26Z&ske=2025-06-24T08%3A57%3A26Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=thAKMjBleM8y9dj2shWxF4UpwgsMaoiP0LnNng48LdA%3D&az=oaivgprodscus"
+  },
+  {
+    "id": 4,
+    "name": "Hähnchenbrust",
+    "description": "Zartes Hähnchen, leicht gewürzt",
+    "price": 5.20,
+    "available": true,
+    "allergen": null,
+    "calories": 320,
+    "image": "https://videos.openai.com/vg-assets/assets%2Ftask_01jy178j7he0psg8pag4eqaxp8%2F1750240387_img_1.webp?st=2025-06-18T07%3A59%3A07Z&se=2025-06-24T08%3A59%3A07Z&sks=b&skt=2025-06-18T07%3A59%3A07Z&ske=2025-06-24T08%3A59%3A07Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=UWGMDTI82ZkB5FWEVa75FueZDRDziUE5Ln0mR1iB7lU%3D&az=oaivgprodscus"
+  },
+  {
+    "id": 5,
+    "name": "Schnitzel mit Pommes",
+    "description": "Knuspriges Schnitzel mit goldenen Pommes",
+    "price": 5.00,
+    "available": true,
+    "allergen": "Gluten,Eier",
+    "calories": 780,
+    "image": "https://videos.openai.com/vg-assets/assets%2Ftask_01jy17aw25esat4qqv83sj6jvq%2F1750240521_img_1.webp?st=2025-06-18T08%3A52%3A21Z&se=2025-06-24T09%3A52%3A21Z&sks=b&skt=2025-06-18T08%3A52%3A21Z&ske=2025-06-24T09%3A52%3A21Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=DZ9Y53yfE%2F2IpMhhMfzveQom17W9hBU13jb%2F4qOVURw%3D&az=oaivgprodscus"
+  },
+  {
+    "id": 6,
+    "name": "Linsensuppe",
+    "description": "Hausgemachte Suppe mit kräftigem Geschmack",
+    "price": 3.50,
+    "available": true,
+    "allergen": null,
+    "calories": 280,
+    "image": "https://videos.openai.com/vg-assets/assets%2Ftask_01jy17fdabf62vdvzhhaeca31f%2F1750240664_img_0.webp?st=2025-06-18T08%3A52%3A21Z&se=2025-06-24T09%3A52%3A21Z&sks=b&skt=2025-06-18T08%3A52%3A21Z&ske=2025-06-24T09%3A52%3A21Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=NMAUeYBKuQqmKG3f1VlhQ0FoQgyDitzQ37x5QtIgEOk%3D&az=oaivgprodscus"
+  },
+  {
+    "id": 7,
+    "name": "Pizza Margherita",
+    "description": "Knuspriger Boden mit fruchtiger Tomatensoße",
+    "price": 4.80,
+    "available": true,
+    "allergen": "Gluten,Milch",
+    "calories": 720,
+    "image": "https://videos.openai.com/vg-assets/assets%2Ftask_01jy17k86pejasprbx7a35xy09%2F1750240789_img_2.webp?st=2025-06-18T08%3A53%3A48Z&se=2025-06-24T09%3A53%3A48Z&sks=b&skt=2025-06-18T08%3A53%3A48Z&ske=2025-06-24T09%3A53%3A48Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=7zD8AYfAdlFgHPyt4JW0%2B3fWSVCV36B2R%2Fn%2B0QdhQJ8%3D&az=oaivgprodscus"
+  },
+  {
+    "id": 8,
+    "name": "Falafel Wrap",
+    "description": "Orientalischer Wrap mit frischem Salat",
+    "price": 4.20,
+    "available": true,
+    "allergen": "Gluten,Sesam",
+    "calories": 480,
+    "image": "https://videos.openai.com/vg-assets/assets%2Ftask_01jy1bemhwfg3bsgjgh2zspwhw%2F1750244808_img_1.webp?st=2025-06-18T09%3A48%3A30Z&se=2025-06-24T10%3A48%3A30Z&sks=b&skt=2025-06-18T09%3A48%3A30Z&ske=2025-06-24T10%3A48%3A30Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=ifJIW9Ftk1p0mz0mtGZVr4hdPU9VbvYI7ICMUAEy1Qw%3D&az=oaivgprodscus"
+  },
+  {
+    "id": 9,
+    "name": "Chili sin Carne",
+    "description": "Pikant, sättigend und rein pflanzlich",
+    "price": 4.00,
+    "available": true,
+    "allergen": null,
+    "calories": 380,
+    "image": "https://videos.openai.com/vg-assets/assets%2Ftask_01jy1bhy6xee9vp2v57fc5x9n1%2F1750244930_img_2.webp?st=2025-06-18T09%3A49%3A07Z&se=2025-06-24T10%3A49%3A07Z&sks=b&skt=2025-06-18T09%3A49%3A07Z&ske=2025-06-24T10%3A49%3A07Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=DMLvSgZQ0QfcG7drTsmGRYeP2ML3zUtJFedkTnWnsQc%3D&az=oaivgprodscus"
+  },
+  {
+    "id": 10,
+    "name": "Reis mit Gemüse",
+    "description": "Leichtes Gericht im Asia-Stil",
+    "price": 3.90,
+    "available": true,
+    "allergen": "Soja",
+    "calories": 320,
+    "image": "https://videos.openai.com/vg-assets/assets%2Ftask_01jy1bp6rcekgswe902j6bgr83%2F1750245063_img_1.webp?st=2025-06-18T09%3A48%3A15Z&se=2025-06-24T10%3A48%3A15Z&sks=b&skt=2025-06-18T09%3A48%3A15Z&ske=2025-06-24T10%3A48%3A15Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=dSC3VTuTxB1SxMVC%2F%2BqnXbqaAwGIjn7i9CacbXe2bTM%3D&az=oaivgprodscus"
+  },
+  {
+    "id": 11,
+    "name": "Vegetarische Lasagne",
+    "description": "Lagen aus Nudeln, Gemüse und Käse",
+    "price": 4.60,
+    "available": true,
+    "allergen": "Gluten,Milch,Eier",
+    "calories": 520,
+    "image": "https://videos.openai.com/vg-assets/assets%2Ftask_01jy1bszgdfvb94w6kyqahpj1w%2F1750245182_img_1.webp?st=2025-06-18T09%3A48%3A20Z&se=2025-06-24T10%3A48%3A20Z&sks=b&skt=2025-06-18T09%3A48%3A20Z&ske=2025-06-24T10%3A48%3A20Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=ldJEaRCD9s%2B19HYijgW%2FgzM%2F%2BBcgoQ4Ym%2F8rYcH9zH4%3D&az=oaivgprodscus"
+  },
+  {
+    "id": 12,
+    "name": "Thai-Gemüse mit Reis",
+    "description": "Exotisches Gemüse in Kokosmilch",
+    "price": 4.30,
+    "available": true,
+    "allergen": "Soja",
+    "calories": 380 ,
+    "image": "https://videos.openai.com/vg-assets/assets%2Ftask_01jy1bxagyfa8sekpkfj3nfpm5%2F1750245297_img_2.webp?st=2025-06-18T09%3A47%3A51Z&se=2025-06-24T10%3A47%3A51Z&sks=b&skt=2025-06-18T09%3A47%3A51Z&ske=2025-06-24T10%3A47%3A51Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=0UbSp5kQ2%2B9o5JhN1jYc27%2FSA%2BjxjEegT7NGb5lcaCU%3D&az=oaivgprodscus"
+  }
+]

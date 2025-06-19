@@ -1,0 +1,106 @@
+body {
+  background-color: var(--background-color);
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  transition: background-color 0.3s ease;
+}
+
+.header {
+  background: var(--card-background);
+  color: var(--text-color);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.25rem 2.5rem;
+  box-shadow: var(--shadow-md);
+  border-bottom: none;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.logo {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #0ea5e9;
+  background: var(--gradient-blue);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  position: relative;
+}
+
+.avatar-wrapper {
+  position: relative;
+}
+
+.avatar {
+  width: 42px;
+  height: 42px;
+  background: var(--gradient-blue);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(14, 165, 233, 0.2);
+  transition: all 0.3s ease;
+}
+
+.avatar:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-lg);
+}
+
+.dropdown-menu {
+  position: absolute;
+  right: 0;
+  top: 52px;
+  background: var(--card-background);
+  color: var(--text-color);
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow-lg);
+  padding: 1.25rem;
+  min-width: 180px;
+  z-index: 100;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.dropdown-name {
+  font-weight: 600;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  color: var(--text-color);
+}
+
+.login-btn,
+.logout-btn {
+  background: var(--gradient-blue);
+  color: white;
+  border: none;
+  padding: 0.75rem 1rem;
+  border-radius: var(--border-radius-md);
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  width: 100%;
+  box-shadow: var(--shadow-md);
+}
+
+.login-btn:hover,
+.logout-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+.login-btn:active,
+.logout-btn:active {
+  transform: translateY(0);
+}

@@ -1,0 +1,14 @@
+com\mensa\Service\SessionService.class
+com\mensa\config\SecurityConfig.class
+com\mensa\filter\AuthFilter.class
+com\mensa\Main.class
+com\mensa\repository\UserRepository.class
+com\mensa\controller\GetController.class
+com\mensa\repository\JdbcConfig.class
+com\mensa\repository\UserRowMapper.class
+com\mensa\Menu.class
+com\mensa\repository\MenuRowMapper.class
+com\mensa\controller\UserController.class
+com\mensa\Service\AuthService.class
+com\mensa\User.class
+com\mensa\repository\MenuRepository.class
